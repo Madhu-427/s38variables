@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  margin: 20px;
+}
+
+th,td {
+  border: 2px solid black;
+}
+caption{
+  background-color:purple;
+  color: wheat;
+
+}
